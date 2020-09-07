@@ -4,6 +4,7 @@ IronBeer Brewery es una cervecera artesana cuya fábrica principal se sitúa en 
 
 Teniendo en cuenta estas premisas y siguiendo con la idea de expansión, hemos apostado por establecer una nueva fábrica que nos haga crecer en los países de Europa Oriental.
 
-A través de la red social Untappd (https://es.wikipedia.org/wiki/Untappd) hemos analizado los registros de una dataset de usuarios bielorusos extraídos en Kaggle (https://www.kaggle.com/gruntoff/notebook)
+A través de la red social **Untappd** (https://es.wikipedia.org/wiki/Untappd) hemos analizado los registros de una dataset de usuarios bielorusos extraídos en **Kaggle** (https://www.kaggle.com/gruntoff/notebook)
 
 <img src="Logo_Untapp.png" width="250">
+![alt text][Logo_Untapp.png]
