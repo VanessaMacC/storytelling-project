@@ -7,4 +7,3 @@ Teniendo en cuenta estas premisas y siguiendo con la idea de expansión, hemos a
 A través de la red social **Untappd** (https://es.wikipedia.org/wiki/Untappd) hemos analizado los registros de una dataset de usuarios bielorusos extraídos en **Kaggle** (https://www.kaggle.com/gruntoff/notebook)
 
 <img src="Logo_Untapp.png" width="250">
-![alt text][Logo_Untapp.png]
